@@ -12,5 +12,3 @@ A GUI client for Windows, Linux and macOS, support [Xray](https://github.com/XTL
 
 Read the [Wiki](https://github.com/2dust/v2rayN/wiki) for details.
 
-## Telegram Channel
-[github_2dust](https://t.me/github_2dust)
