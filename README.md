@@ -1,6 +1,10 @@
 # v2rayN
 
 
+2025年大陆地区稳定翻墙机场推荐 (持续更新）:
+https://www.flyvpn88.top
+机场Github：
+https://github.com/029danio/fly
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/2dust/v2rayN)](https://github.com/2dust/v2rayN/commits/master)
 [![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayn/badge)](https://www.codefactor.io/repository/github/2dust/v2rayn)
